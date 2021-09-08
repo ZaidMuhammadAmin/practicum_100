@@ -32,3 +32,6 @@ how many days the add was published.
 *  matplotlib
 *  snowballstemmer
  
+# Findings:
+
+The price variable highly depending on model_year variable and the condition & cylinders come on second. The vehicle_age has most negative dependant upon price. It's look strange but the reason behind is the vintage cars for whom customers are paying high prices.
