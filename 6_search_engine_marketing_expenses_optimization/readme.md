@@ -32,6 +32,12 @@ __dt__ date
 
 __costs__ expenses on this ad source on this day tables are as:
 
+__source_id__ ad source identifier
+
+__dt__ date
+
+__costs__ expenses on this ad source on this day
+
  # Libraries used:
  
 *  pandas
