@@ -1,6 +1,9 @@
 # Project Goal:
 Optimizing the marketing expenses of search engine.
 
+# nbviewer file link:
+https://nbviewer.jupyter.org/github/ZaidMuhammadAmin/practicum_100/blob/main/6_search_engine_marketing_expenses_optimization/marketing_expenses_optimization.ipynb
+
 # Introduction of datasets:
 __The visits table (server logs with data on website visits):__
 
