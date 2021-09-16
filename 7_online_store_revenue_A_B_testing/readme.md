@@ -2,7 +2,8 @@
 Hypothesis prioritizing (ICE & RICE),  testing and A/B analysis to boost online store revenue.
 
 # nbviewer file link:
-https://nbviewer.jupyter.org/github/ZaidMuhammadAmin/practicum_100/blob/main/6_search_engine_marketing_expenses_optimization/marketing_expenses_optimization.ipynb
+
+https://nbviewer.jupyter.org/github/ZaidMuhammadAmin/practicum_100/blob/main/7_online_store_revenue_A_B_testing/Hypothesis%20prioritizing%2C%20testing%20and%20A-B%20analysis%20to%20boost%20online%20store%20revenue..ipynb
 
 # Introduction of datasets:
 The __hypotheses_us__ dataset has 5 columns as:
