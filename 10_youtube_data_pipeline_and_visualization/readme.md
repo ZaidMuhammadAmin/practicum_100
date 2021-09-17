@@ -1,13 +1,13 @@
 # Project Goal:
 To determine what content deserves marketing attention on YouTube.
 
-
+# Files Description:
 
 1. The ipynb file contains the pipeline to connect with dummy database with dummy config_details.
 
 2. The .ppt file name 'presentation_automation' has finding of the analysis.
 
-# Tableau dashboard link:
+3. Tableau dashboard link:
 https://public.tableau.com/views/Project_1_16283685271790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Data sources for the dashboard: 
