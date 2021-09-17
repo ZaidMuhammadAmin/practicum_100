@@ -2,6 +2,8 @@
 Sales funnel and A/B testing for a online store.
 # nbviewer file link:
 
+https://nbviewer.jupyter.org/github/ZaidMuhammadAmin/practicum_100/blob/main/9_Sales_Funnel_A_B_testing/Sales_Funnel_A_B_Testing.ipynb
+
 # Introduction of datasets:
 
 Each log entry is a user action or an event.
