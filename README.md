@@ -7,15 +7,15 @@ Yandex Practicum 100 data analyst program prepares me for a career as a data ana
 
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn basic libraries.
 
-1.  [Data Preprocessing](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/1_bank_credit_report) A report for a bank’s loan division
-3.  [Exploratory Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/2_factor_impacting_car_ads_website)
-4.  [Statistical Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/3_telecom%20_tariff%20_plans_analysis)
-5.  [Integrated Project 1](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/4_online_sold_games_genre_success_analysis_prediction)
-6.  [Data Collection and Storage (SQL)](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/5_car_sharing_passengers_preferences_external_factor)
-7.  [Business Analytics](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/6_search_engine_marketing_expenses_optimization)
-8.  [Making Business Data Based on Data](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/7_online_store_revenue_A_B_testing)
-9.  [How to Tell a Story Using Data](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/8_Data_Visualization_with_restuarants_market_analysis)
-10.  [Integrated Project 2](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/9_Sales_Funnel_A_B_testing)
+1.  [Data Preprocessing](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/1_bank_credit_report) A report for a bank’s loan division. 
+3.  [Exploratory Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/2_factor_impacting_car_ads_website) Data collection and factors influence the price of a vehicle.
+4.  [Statistical Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/3_telecom%20_tariff%20_plans_analysis) Telecom customers' behavior and hypothesis testing.
+5.  [Integrated Project 1](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/4_online_sold_games_genre_success_analysis_prediction) Building users behavior profile to run advertising campaigns.
+6.  [Data Collection and Storage (SQL)](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/5_car_sharing_passengers_preferences_external_factor) Data parsing from SQL database and classification of taxi trips Chicago airport neighbourhood.
+7.  [Business Analytics](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/6_search_engine_marketing_expenses_optimization) Online shopping store marketing expenses optimization (Cohort Analysis, Churn Rate, Customers retentation,LTV, ROI) 
+8.  [Making Business Data Based on Data](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/7_online_store_revenue_A_B_testing) A/B testing to boost online store revenue and Prioritizing Hypotheses. 
+9.  [How to Tell a Story Using Data](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/8_Data_Visualization_with_restuarants_market_analysis) Data Visualization, Reporting and Presentation using Plotly, Dash and MS PowerPoint.
+10.  [Integrated Project 2](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/9_Sales_Funnel_A_B_testing) 
 11.  [Automation](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/10_youtube_data_pipeline_and_visualization)
 12.  [Forecasts and Predictions](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/11_Building_model_to_predict_user_churn)
 
