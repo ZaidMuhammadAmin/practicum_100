@@ -18,5 +18,4 @@ Tips: For data science projects with python, I would recomend you to install num
 #### 9.  [Integrated Project 2](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/9_Sales_Funnel_A_B_testing)
 #### 10.  [Automation](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/10_youtube_data_pipeline_and_visualization)
 #### 11.  [Forecasts and Predictions](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/11_Building_model_to_predict_user_churn)
-#### 12.  [Final Project](https://drive.google.com/file/d/17Zpue_kE0tlCICjodcXMdqEb69W8oKrC/view?usp=sharing)
 
