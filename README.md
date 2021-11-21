@@ -7,7 +7,7 @@ Yandex Practicum 100 data analyst program prepares me for a career as a data ana
 
 Tips: For data science projects with python, I would recomend you to install numpy , pandas , scipy , scikit learn , matplotlib , seaborn basic libraries.
 
-#### 1.  [Data Preprocessing](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/1_bank_credit_report)
+1.  [Data Preprocessing](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/1_bank_credit_report)
 #### 2.  [Exploratory Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/2_factor_impacting_car_ads_website)
 #### 3.  [Statistical Data Analysis](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/3_telecom%20_tariff%20_plans_analysis)
 #### 4.  [Integrated Project 1](https://github.com/ZaidMuhammadAmin/practicum_100/tree/main/4_online_sold_games_genre_success_analysis_prediction)
